@@ -1,1 +1,2 @@
-print("Hello world")
+import os
+print("Bonjour " + os.getlogin())
